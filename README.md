@@ -1,2 +1,3 @@
-This program reads one diagraph and returns the minimum path as input
-The implementation was done in C language
+#Graph Algorithms
+-This repository contains some project related to graphs of my college
+-The implementation of all projects were made in language C
